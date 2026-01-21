@@ -169,6 +169,14 @@ Ce prototype constitue une **base solide** pour des systèmes avancés de gestio
 ---
 
 ## 📩 Contact
-**Mouad Souhal**  
-SUP MTI — 2026–2027  
+**Email:** msouhal.dev@gmail.com
 
+<p>
+  <a href="https://www.kaggle.com/souhalmouad" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/MouadShl" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
