@@ -12,7 +12,6 @@
 
 ## 👤 Informations Générales
 - 🧑‍🎓 **Auteur :** Mouad Souhal  
-- 🏫 **École :** SUP MTI  
 - 📅 **Année universitaire :** 2026 – 2027  
 - 📚 **Matière :** Vision par Ordinateur / Intelligence Artificielle  
 
